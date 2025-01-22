@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#myImage {
+    max-width: 50%;
+    transition: transform 0.3s ease-in-out;
+}
